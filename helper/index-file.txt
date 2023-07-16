@@ -1,0 +1,291 @@
+test Book1.cs 1
+test2 Book1.cs 1
+test3 Book1.cs 1
+cefepim Book1.cs emartemp.cs 2
+b Book1.cs 1
+c Book1.cs 1
+e Book1.cs 1
+f Book1.cs 1
+10005909 emartemp.cs 1
+20199380 emartemp.cs 1
+10005909-74 emartemp.cs 1
+74 emartemp.cs 1
+10005909-97 emartemp.cs 1
+96110427 emartemp.cs 1
+10/31/2144 5:56 emartemp.cs 1
+magnesium emartemp.cs 1
+sulf emartemp.cs 1
+10005909-79 emartemp.cs 1
+79 emartemp.cs 1
+10/31/2144 8:00 emartemp.cs 1
+10/31/2144 8:15 emartemp.cs 1
+10008287 emartemp.cs 1
+22168393 emartemp.cs 1
+10008287-32 emartemp.cs 1
+32 emartemp.cs 1
+10008287-58 emartemp.cs 1
+p26pkf emartemp.cs 1
+9/28/2145 20:15 emartemp.cs 1
+potassium emartemp.cs 1
+chloride emartemp.cs 1
+replacement emartemp.cs 1
+critical emartemp.cs 1
+care emartemp.cs 1
+and emartemp.cs 1
+oncology emartemp.cs 1
+9/28/2145 20:38 emartemp.cs 1
+10010471 emartemp.cs 1
+21322534 emartemp.cs 1
+10010471-33 emartemp.cs 1
+33 emartemp.cs 1
+10010471-51 emartemp.cs 1
+52131847 emartemp.cs 1
+5/8/2155 21:45 emartemp.cs 1
+metoprolol emartemp.cs 1
+tartr emartemp.cs 1
+5/8/2155 22:40 emartemp.cs 1
+10015272 emartemp.cs 1
+27993466 emartemp.cs 1
+10015272-31 emartemp.cs 1
+31 emartemp.cs 1
+10015272-48 emartemp.cs 1
+88758875 emartemp.cs 1
+6/13/2137 8:36 emartemp.cs 1
+10019777 emartemp.cs 1
+27738145 emartemp.cs 1
+10019777-14 emartemp.cs 1
+14 emartemp.cs 1
+10019777-41 emartemp.cs 1
+2/10/2187 17:13 emartemp.cs 1
+morphine emartemp.cs 1
+10020187 emartemp.cs 1
+24104168 emartemp.cs 1
+10020187-50 emartemp.cs 1
+50 emartemp.cs 1
+10020187-62 emartemp.cs 1
+25652531 emartemp.cs 1
+1/16/2169 2:27 emartemp.cs 1
+10020187-53 emartemp.cs 1
+53 emartemp.cs 1
+1/16/2169 6:14 emartemp.cs 1
+10020187-51 emartemp.cs 1
+51 emartemp.cs 1
+1/16/2169 3:27 emartemp.cs 1
+1/16/2169 3:28 emartemp.cs 1
+10020187-52 emartemp.cs 1
+52 emartemp.cs 1
+1/16/2169 4:49 emartemp.cs 1
+10020786 emartemp.cs 1
+23488445 emartemp.cs 1
+10020786-27 emartemp.cs 1
+27 emartemp.cs 1
+10020786-47 emartemp.cs 1
+82871676 emartemp.cs 1
+6/9/2189 15:45 emartemp.cs 1
+6/9/2189 17:31 emartemp.cs 1
+10020786-26 emartemp.cs 1
+26 emartemp.cs 1
+6/9/2189 15:15 emartemp.cs 1
+10021312 emartemp.cs 1
+25020332 emartemp.cs 1
+10021312-28 emartemp.cs 1
+28 emartemp.cs 1
+10021312-39 emartemp.cs 1
+p33k2x emartemp.cs 1
+8/16/2113 18:08 emartemp.cs 1
+lidocaine emartemp.cs 1
+1% emartemp.cs 1
+10026354 emartemp.cs 1
+24547356 emartemp.cs 1
+10026354-23 emartemp.cs 1
+23 emartemp.cs 1
+10026354-50 emartemp.cs 1
+10/26/2119 14:30 emartemp.cs 1
+sulfate emartemp.cs 1
+10/26/2119 18:45 emartemp.cs 1
+10026354-22 emartemp.cs 1
+22 emartemp.cs 1
+48728127 emartemp.cs 1
+10/26/2119 13:18 emartemp.cs 1
+10/26/2119 13:21 emartemp.cs 1
+10029291 emartemp.cs 1
+22205327 emartemp.cs 1
+10029291-23 emartemp.cs 1
+10029291-42 emartemp.cs 1
+60215189 emartemp.cs 1
+2/20/2123 7:23 emartemp.cs 1
+fentanyl emartemp.cs 1
+citr emartemp.cs 1
+2/20/2123 7:22 emartemp.cs 1
+2/20/2123 7:24 emartemp.cs 1
+10029291-137 emartemp.cs 1
+137 emartemp.cs 1
+10029291-81 emartemp.cs 1
+78906895 emartemp.cs 1
+2/22/2123 10:51 emartemp.cs 1
+2/22/2123 10:50 emartemp.cs 1
+10037861 emartemp.cs 1
+24256866 emartemp.cs 1
+10037861-26 emartemp.cs 1
+10037861-87 emartemp.cs 1
+81233533 emartemp.cs 1
+10/10/2115 17:59 emartemp.cs 1
+chlorid emartemp.cs 1
+10037861-21 emartemp.cs 1
+21 emartemp.cs 1
+10/10/2115 16:55 emartemp.cs 1
+10038999 emartemp.cs 1
+27189241 emartemp.cs 1
+10038999-179 emartemp.cs 1
+179 emartemp.cs 1
+10038999-46 emartemp.cs 1
+30510112 emartemp.cs 1
+5/27/2131 7:44 emartemp.cs 1
+5/27/2131 7:45 emartemp.cs 1
+10038999-58 emartemp.cs 1
+58 emartemp.cs 1
+10038999-66 emartemp.cs 1
+20009305 emartemp.cs 1
+5/24/2131 10:11 emartemp.cs 1
+quetiapine emartemp.cs 1
+fumar emartemp.cs 1
+5/24/2131 10:12 emartemp.cs 1
+10038999-56 emartemp.cs 1
+56 emartemp.cs 1
+5/24/2131 8:12 emartemp.cs 1
+5/24/2131 8:13 emartemp.cs 1
+10004235 emartemp.cs 1
+25970245 emartemp.cs 1
+10004235-83 emartemp.cs 1
+83 emartemp.cs 1
+10004235-554 emartemp.cs 1
+p54tss emartemp.cs 1
+6/14/2196 22:50 emartemp.cs 1
+6/14/2196 22:51 emartemp.cs 1
+10004235-79 emartemp.cs 1
+p851dg emartemp.cs 1
+6/14/2196 21:45 emartemp.cs 1
+6/14/2196 22:20 emartemp.cs 1
+10004235-78 emartemp.cs 1
+78 emartemp.cs 1
+10004235-555 emartemp.cs 1
+p14csq emartemp.cs 1
+6/14/2196 21:53 emartemp.cs 1
+6/14/2196 21:54 emartemp.cs 1
+10004235-86 emartemp.cs 1
+86 emartemp.cs 1
+6/14/2196 23:16 emartemp.cs 1
+6/14/2196 23:17 emartemp.cs 1
+10005817 emartemp.cs 1
+28661809 emartemp.cs 1
+10005817-39 emartemp.cs 1
+39 emartemp.cs 1
+10005817-603 emartemp.cs 1
+7590027 emartemp.cs 1
+1/4/2135 12:30 emartemp.cs 1
+insulin emartemp.cs 1
+1/4/2135 12:31 emartemp.cs 1
+10005817-210 emartemp.cs 1
+210 emartemp.cs 1
+10005817-762 emartemp.cs 1
+17588076 emartemp.cs 1
+p28ev2 emartemp.cs 1
+1/8/2135 13:17 emartemp.cs 1
+for emartemp.cs 1
+picc/midline emartemp.cs 1
+insertions emartemp.cs 1
+1/8/2135 13:18 emartemp.cs 1
+10005817-512 emartemp.cs 1
+512 emartemp.cs 1
+10005817-786 emartemp.cs 1
+1/13/2135 17:30 emartemp.cs 1
+heparin emartemp.cs 1
+1/13/2135 18:12 emartemp.cs 1
+10005817-810 emartemp.cs 1
+810 emartemp.cs 1
+10005817-916 emartemp.cs 1
+39486925 emartemp.cs 1
+1/18/2135 5:13 emartemp.cs 1
+calcium emartemp.cs 1
+gluconate emartemp.cs 1
+sliding emartemp.cs 1
+scale emartemp.cs 1
+care-ionized emartemp.cs 1
+10005817-692 emartemp.cs 1
+692 emartemp.cs 1
+1/16/2135 9:57 emartemp.cs 1
+10005817-694 emartemp.cs 1
+694 emartemp.cs 1
+1/16/2135 11:12 emartemp.cs 1
+10005817-633 emartemp.cs 1
+633 emartemp.cs 1
+64536204 emartemp.cs 1
+1/15/2135 12:19 emartemp.cs 1
+10005817-769 emartemp.cs 1
+769 emartemp.cs 1
+1/17/2135 11:13 emartemp.cs 1
+1/17/2135 11:14 emartemp.cs 1
+10005817-766 emartemp.cs 1
+766 emartemp.cs 1
+1/17/2135 9:19 emartemp.cs 1
+10005817-836 emartemp.cs 1
+836 emartemp.cs 1
+1/18/2135 15:18 emartemp.cs 1
+10005817-837 emartemp.cs 1
+837 emartemp.cs 1
+1/18/2135 17:04 emartemp.cs 1
+10005817-814 emartemp.cs 1
+814 emartemp.cs 1
+1/18/2135 7:16 emartemp.cs 1
+10005817-636 emartemp.cs 1
+636 emartemp.cs 1
+1/15/2135 13:32 emartemp.cs 1
+10005817-892 emartemp.cs 1
+892 emartemp.cs 1
+1/19/2135 11:36 emartemp.cs 1
+1/19/2135 11:37 emartemp.cs 1
+10005817-702 emartemp.cs 1
+702 emartemp.cs 1
+10005817-977 emartemp.cs 1
+51888789 emartemp.cs 1
+1/16/2135 12:52 emartemp.cs 1
+10005817-695 emartemp.cs 1
+695 emartemp.cs 1
+1/16/2135 11:16 emartemp.cs 1
+10005866 emartemp.cs 1
+27167814 emartemp.cs 1
+10005866-302 emartemp.cs 1
+302 emartemp.cs 1
+10005866-336 emartemp.cs 1
+10330587 emartemp.cs 1
+3/18/2148 14:42 emartemp.cs 1
+10005866-297 emartemp.cs 1
+297 emartemp.cs 1
+3/18/2148 13:45 emartemp.cs 1
+22589518 emartemp.cs 1
+10005866-425 emartemp.cs 1
+425 emartemp.cs 1
+10005866-414 emartemp.cs 1
+21970567 emartemp.cs 1
+2/12/2149 11:10 emartemp.cs 1
+2/12/2149 11:11 emartemp.cs 1
+10005866-423 emartemp.cs 1
+423 emartemp.cs 1
+2/12/2149 10:03 emartemp.cs 1
+2/12/2149 10:04 emartemp.cs 1
+23514107 emartemp.cs 1
+10005866-479 emartemp.cs 1
+479 emartemp.cs 1
+10005866-470 emartemp.cs 1
+68789321 emartemp.cs 1
+6/21/2149 8:05 emartemp.cs 1
+10005866-482 emartemp.cs 1
+482 emartemp.cs 1
+6/21/2149 9:13 emartemp.cs 1
+26134779 emartemp.cs 1
+10005866-668 emartemp.cs 1
+668 emartemp.cs 1
+10005866-539 emartemp.cs 1
+91100502 emartemp.cs 1
+9/18/2149 4:31 emartemp.cs 1
+9/18/2149 4:32 emartemp.cs 1
